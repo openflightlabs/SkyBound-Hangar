@@ -1,3 +1,14 @@
+## v0.3.1:
+- fixed an issue where files might have been renamed during install if it already existed in the Downloads folder
+- new backup logic for installing overwriting additional downloads
+- made logs much more informative
+- separated additional downloads from the main download more
+- simulators preferences for recently added addons are now saved across addons
+- fixed issues with remove state of additional downloads
+- fixed ui scaling introducing a gap at the bottom of the window
+- fixed text extending beyond error message popups
+- streamlined font colours across the app
+ 
 ## v0.3.0:
 - recently updated now shows all simulators' addons (toggleable in settings)
 - new popup asks which simulator's version should be opened if multiple addons have the same slug
