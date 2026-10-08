@@ -1,3 +1,10 @@
+## v0.3.2:
+- fixed fileditch downloads
+- fixed vaultdrop downloads
+- added ability to open sources via links
+- added safeguards to prevent 3rd party sources from modifying some folders/files
+- fixed different ui scale settings moving right click context menus
+
 ## v0.3.1:
 - fixed an issue where files might have been renamed during install if it already existed in the Downloads folder
 - new backup logic for installing overwriting additional downloads
